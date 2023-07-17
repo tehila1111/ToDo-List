@@ -1,3 +1,23 @@
+## shot screen of my ToDo list:
+
+
+
+
+![to-do-list](https://github.com/tehila1111/ToDo-List/assets/139683282/d646cfdc-e14b-4bb3-9241-40ed14bb4d86)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

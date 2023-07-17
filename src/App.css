@@ -1,0 +1,86 @@
+.listTitle {
+  margin: 10px;
+}
+
+.list-cont {
+  margin: auto;
+  padding: 10px;
+  margin-top: 100px;
+  width: 400px;
+  height: fit-content;
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.add-to-do {
+  margin: 20px 20px 40px 20px;
+}
+
+.to-do {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 2px 5px 30px rgb(230, 230, 230);
+  height: 50px;
+  margin: 10px;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  padding-left: 25px;
+  align-items: center;
+  justify-content: space-between;
+
+
+}
+
+
+
+
+.todo-text {
+  margin-right: 20px;
+}
+
+.v {
+  color: rgb(6, 165, 6);
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.x {
+  color: red;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.add {
+  padding: 5px;
+  width: 200px;
+  height: 28px;
+  border: 1px solid rgb(96, 96, 236);
+  border-bottom-left-radius: 11px;
+  border-top-left-radius: 11px;
+
+}
+
+.submit-add {
+  padding: 5px;
+  background-color: rgb(90, 93, 250);
+  border: none;
+  width: 70px;
+  height: 39px;
+  border-bottom-right-radius: 11px;
+  border-top-right-radius: 11px;
+  color: white;
+  cursor: pointer;
+
+}
+
+.completed {
+  background-color: #e0e0e0;
+  text-decoration: line-through;
+}
